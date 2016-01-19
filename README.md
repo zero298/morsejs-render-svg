@@ -1,6 +1,8 @@
 # morsejs-render-svg
 
-[![Build Status](https://travis-ci.org/zero298/morsejs-render-svg.svg?branch=master)](https://travis-ci.org/zero298/morsejs-render-svg) [![Inline docs](http://inch-ci.org/github/zero298/morsejs-render-svg.svg?branch=master)](http://inch-ci.org/github/zero298/morsejs-render-svg)
+[![npm version](https://img.shields.io/npm/v/morsejs-render-svg.svg)](https://www.npmjs.com/package/morsejs-render-svg)
+[![Build Status](https://travis-ci.org/zero298/morsejs-render-svg.svg?branch=master)](https://travis-ci.org/zero298/morsejs-render-svg)
+[![Inline docs](http://inch-ci.org/github/zero298/morsejs-render-svg.svg?branch=master)](http://inch-ci.org/github/zero298/morsejs-render-svg)
 
 A plugin for [morsejs](https://github.com/zero298/morsejs) to render translated messages as [Scalable Vector Graphic (SVG)](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics).
 
